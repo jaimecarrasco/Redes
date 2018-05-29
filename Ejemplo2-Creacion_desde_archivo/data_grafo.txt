@@ -1,0 +1,16 @@
+a c 6
+a b 5
+a g 17
+c h 11
+c f 6
+b a 3
+b h 7
+b c 4
+g h 5
+f a 11
+f h 4
+f c 7
+f g 9
+h a 11
+h g 4
+h f 9
